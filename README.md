@@ -17,7 +17,7 @@ It's fast to setup and pretty straight-forward!
 First clone this repository using git,
 
 ```sh
-git clone 
+git clone https://github.com/Naushikha/TinyCA
 cd TinyCA
 ```
 
@@ -45,7 +45,7 @@ Then follow these steps to create your own certificates,
 
 Here are some placeholder values to get an idea on what to fill in,
 
-```
+```sh
 Country Name (2 letter code) [AU]: LK
 State or Province Name (full name) [Some-State]: Western
 Locality Name (eg, city) []: Colombo 10
