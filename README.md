@@ -17,7 +17,7 @@ It's fast to setup and pretty straight-forward!
 First clone this repository using git,
 
 ```sh
-git clone https://github.com/Naushikha/TinyCA
+git clone https://github.com/Naushikha/TinyCA.git
 cd TinyCA
 ```
 
