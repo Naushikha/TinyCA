@@ -55,6 +55,10 @@ Common Name (e.g. server FQDN or YOUR name) []: www.awesomesoftware.com
 Email Address []: info@awesomesoftware.com
 ```
 
+## Known Issue
+
+I've recently encountered an issue while using this where the certificate isn't trusted by Google Chrome. This can be fixed by swapping in 'IP.1 = $DOMAIN' for 'DNS.1 = $DOMAIN' in the script, and also including in the IPs as domain name + FQDN.
+
 ## References
 
 These references were used to build this tiny masterpiece. If you are interested or thirsty for more knowledge, go and check them out. 
